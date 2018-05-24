@@ -1,4 +1,4 @@
-# Lyst Tech Test
+# Cron Timing Emulator
 
 ## Installation
 
@@ -6,4 +6,4 @@ Python3 script with no external dependencies. Will run on any system with Python
 
 ## Run
 
-`./cron.py`
+`./cron.py 14:00 < config`
